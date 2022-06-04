@@ -1,2 +1,5 @@
 # diesel
-Lyrics game based off your Spotify listening history
+
+not finished, if not already clear
+
+![balling](balling.gif)
